@@ -1,0 +1,1 @@
+module.exports.VALIDATION_FAILED = 'Validation failed for given parameters'
